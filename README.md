@@ -1,3 +1,5 @@
+Deprecated in favor of https://github.com/Fak3/lockorator
+
 This package provides decorators that will try to acquire redis lock before calling decorated
 function.
 
